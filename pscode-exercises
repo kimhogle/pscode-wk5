@@ -10,9 +10,15 @@ add the 2 number together
 print on the screen the sum of those 2 numbers
 
 
+
 // Exercise 2: Check if a Number is Even or Odd
 
-(Your pseudocode here)
+input integer
+if remainder = 0 answer = even
+if remainder not equal to 0 answer = odd
+output answer
+
+
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
@@ -22,6 +28,15 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+
+input 5 integers
+calculate average
+calculate minimum
+calculate maximum
+print "The average of the five numbers is: " + average
+print "The smallest number entered is: " + minimum
+print "The largest number entered is: " + maximum
+
+
 
 -- END --
